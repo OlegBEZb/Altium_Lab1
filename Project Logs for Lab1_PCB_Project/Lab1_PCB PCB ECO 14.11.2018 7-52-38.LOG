@@ -1,0 +1,17 @@
+Added Net: Name=GND
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC3_2
+Added Net: Name=NetC4_2
+Added Net: Name=NetDD1_1
+Added Net: Name=NetDD1_4
+Added Net: Name=NetDD1_5
+Added Net: Name=NetDD1_6
+Added Net: Name=NetDD1_10
+Added Net: Name=NetDD1_12
+Added Net: Name=NetDD1_18
+Added Net: Name=NetDD1_19
+Added Net: Name=NetHL1_1
+Added Net: Name=NetHL2_1
+Added Class: Name=Lab1_Scheme
+Added Room: Name=Lab1_Scheme
