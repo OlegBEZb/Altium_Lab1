@@ -1,0 +1,24 @@
+Added Component: Designator=HL1(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "5мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Синий"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Произв. номер"; Value = "SMLE13EC8TT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямое напряжение"; Value = "3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Прямой ток"; Value = "5мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Цвет"; Value = "Зелёный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetDD1_5 Pin=HL1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=NetDD1_6 Pin=HL2-2
+Added Member To Class: ClassName=Lab1_Scheme Member=Component HL1 Text
+Added Member To Class: ClassName=Lab1_Scheme Member=Component HL2 Text

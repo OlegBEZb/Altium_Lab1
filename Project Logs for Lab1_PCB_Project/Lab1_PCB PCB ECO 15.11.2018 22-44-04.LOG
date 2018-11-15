@@ -1,0 +1,20 @@
+Added Component: Designator=C4(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Application Category"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Type"; Value = "Ãœ0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Œ¿Œ "Õ»» "√ËËÍÓÌ‰""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = " 10-69‚-Ãœ0-50¬-2012Ã-1000Ô‘±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "¿∆ﬂ–.673511.002 “”"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = " ÓÌ‰ÂÌÒ‡ÚÓ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Max"; Value = "+125∞—"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Temperature Min"; Value = "-60∞—"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C4 Capacitor
+Added Room: Name=Lab1_Scheme

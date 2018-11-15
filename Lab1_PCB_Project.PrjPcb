@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Lab1_PCB_Project
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Capacitor.PcbLib
+DocumentPath=SOIC127P1030X265-20N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -53,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SDQFCWBV
+DocumentUniqueId=LRMSYQBO
 
 [Document2]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Led_GOST.schlib
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\SCH\Led GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,78 +70,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UKYELUVX
+DocumentUniqueId=WARMTQDS
 
 [Document3]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Fuse_GOST.schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RVTUAHJE
-
-[Document4]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Diode_GOST.schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DHUGROLN
-
-[Document5]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Capacitor_GOST.schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMDFHXJS
-
-[Document6]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Resistor_GOST.schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EUCXVTGH
-
-[Document7]
-DocumentPath=..\..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Resistor.PcbLib
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +89,126 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBTPYXRH
 
+[Document4]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\Схемы элементов ГОСТ\Resistor_GOST.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUCXVTGH
+
+[Document5]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\DIP Crystal.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RMXGSQTJ
+
+[Document6]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Leds.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NMIWMGDE
+
+[Document7]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\SCH\Crystal GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CNKJABSH
+
 [Document8]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Fuse.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GFYSCSBB
+
+[Document9]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\SCH\Fuse GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RVTUAHJE
+
+[Document10]
+DocumentPath=..\..\..\..\Desktop\Универ\Работы\Электроника\Программирование МК в робототехнике\ADLib_GOST-master\PCB\SMD Capacitor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SDQFCWBV
+
+[Document11]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIOBELUP
 
-[Document9]
+[Document12]
 DocumentPath=Lab1_Scheme.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAMDFPEK
 
-[Document10]
+[Document13]
 DocumentPath=MCP2200_UART_USB.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BREYWLQI
 
-[Document11]
+[Document14]
 DocumentPath=Lab1_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,23 +275,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUNFDURG
-
-[Document12]
-DocumentPath=Lab1_PCB_Project.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -289,7 +323,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Lab1_PCB_Project
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

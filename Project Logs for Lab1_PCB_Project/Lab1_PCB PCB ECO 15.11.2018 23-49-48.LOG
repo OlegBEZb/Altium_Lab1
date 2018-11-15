@@ -1,0 +1,15 @@
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Сопротивление"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC4_2 Pin=R1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_2 Pin=R2-2
+Added Member To Class: ClassName=Lab1_Scheme Member=Component R1 Resistor_0,05W
+Added Member To Class: ClassName=Lab1_Scheme Member=Component R2 Resistor_0,05W
+Added Room: Name=Lab1_Scheme

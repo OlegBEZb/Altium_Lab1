@@ -1,0 +1,8 @@
+Added Component: Designator=FU1(F1812)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "95mA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetC4_2 Pin=FU1-2
+Added Member To Class: ClassName=Lab1_Scheme Member=Component FU1 Fuse
+Added Room: Name=Lab1_Scheme
