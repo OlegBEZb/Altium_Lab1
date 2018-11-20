@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=NetC3_2 Pin=DD1-17
+Removed Pin From Net: NetName=NetC3_2 Pin=FU1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=X1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=X2-1
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=TO-220AB
+Change Component Comment : Designator=C3 Old Comment=Capacitor New Comment=STU-Series
+Change Component Designator: OldDesignator=C3 NewDesignator=DA?
+Change Component Designator: OldDesignator=FU1 NewDesignator=FU?
+Change component parameters: Designator = "FU?"; Footprint = "F1812"; UniqueID = "\MJUDYEOW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Вставка плавкая"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C0805"; UniqueID = "\LYJFLKRW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\EKEKTDXV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA?"; Footprint = "TO-220AB"; UniqueID = "\MANLISKY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Application Category"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Functional Analog"; Value = "LM7805CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "+8...15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ОАО “ИНТЕГРАЛ”"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "+5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "КР142ЕН5А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "28.05.2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RegType"; Value = "ЕН5А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "бК0.348.634-02 ТУ/03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Power Dissipation"; Value = "1.5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "КР142ЕН5А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Max"; Value = "+70°С"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Temperature Min"; Value = "-45°С"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=DA?-1
+Added Pin To Net: NetName=GND Pin=DA?-2
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-1
+Added Pin To Net: NetName=NetC3_2 Pin=FU?-1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetDA?_1
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-3
+Added Pin To Net: NetName=NetDA?_3 Pin=DD1-17
+Added Pin To Net: NetName=NetDA?_3 Pin=X2-1
+Added Net: Name=NetDA?_3
+Added Pin To Net: NetName=NetFU?_2 Pin=FU?-2
+Added Pin To Net: NetName=NetFU?_2 Pin=X1-1
+Added Net: Name=NetFU?_2
+Added Room: Name=Lab1_Scheme
