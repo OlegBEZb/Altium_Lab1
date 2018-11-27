@@ -1,0 +1,43 @@
+Change Component DesignItemId : Designator=DA1 Old DesignItemId=Стабилизатор напряжения New DesignItemId=LM3940
+Change Component Comment : Designator=DA1 Old Comment=Стабилизатор напряжения New Comment=LM3940
+Change component parameters: Designator = "DA1"; Footprint = "SOT95P255X145-3N"; UniqueID = "\CTCWCPUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Item ID"; Value = "LM3940"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470н"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetDA1_1 Pin=C4-2
+Added Pin To Net: NetName=NetDA1_3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Change Net Name : Old Net Name=NetDA1_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetDA1_3 New Net Name=NetC5_1
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C1 Capacitor
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C2 Capacitor
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C3 Capacitor
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C4 Capacitor
+Added Member To Class: ClassName=Lab1_Scheme Member=Component C5 Capacitor
+Added Member To Class: ClassName=Lab1_Scheme Member=Component DA1 LM3940
+Added Member To Class: ClassName=Lab1_Scheme Member=Component DD1 MCP2200
+Added Member To Class: ClassName=Lab1_Scheme Member=Component FU1 Fuse
+Added Member To Class: ClassName=Lab1_Scheme Member=Component HL1 Text
+Added Member To Class: ClassName=Lab1_Scheme Member=Component HL2 Text
+Added Member To Class: ClassName=Lab1_Scheme Member=Component R1 Resistor_0,05W
+Added Member To Class: ClassName=Lab1_Scheme Member=Component R2 Resistor_0,05W
+Added Member To Class: ClassName=Lab1_Scheme Member=Component R3 Resistor_0,05W
+Added Member To Class: ClassName=Lab1_Scheme Member=Component ZQ1 Crystal
+Added Room: Name=Lab1_Scheme
